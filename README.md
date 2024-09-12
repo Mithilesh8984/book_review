@@ -45,7 +45,7 @@ Contributions are welcome! If you find any issues or want to suggest improvement
 # Contact
 If you have any questions or suggestions, you can reach me at:
 
-Email: arvindkumar4t456@gmail.com
-GitHub: arvindfoujdar
+Email: guptamithilesh261@gmail.com
+GitHub: Mithilesh8984
 
 *******************************************************************************************************************************************************************
